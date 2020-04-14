@@ -1,0 +1,95 @@
+body {
+    background: #eee;
+}
+
+.name-tweaks {
+    margin-top: -20px;
+    text-align: center;
+    background: linear-gradient(630deg, #621880 0%,#2c6e71 100%);
+    color: #fff;
+    border-radius: 10px 0;
+    width: 90%;
+    font-family: "Sukar Bold";
+    font-size: 20px;
+}
+
+.developer{
+	color: #f55;
+    font-family: "Sukar Regular";
+    font-weight: bold;
+    text-decoration: none;
+}
+.info {
+    background: linear-gradient(135deg, #95e690 0%,#45a2b1 100%);
+    width: 90%;
+    border-radius: 10px 0;
+    font-family: "az";
+    margin-top: 50px;
+}
+
+input[type="url"] {
+    font-family: "az";
+    width: 75%;
+    padding: 7px;
+    font-size: 20px;
+}
+input[type="title"] {
+    font-family: "az";
+    width: 75%;
+    padding: 7px;
+    font-size: 20px;
+}
+
+.download-az {
+    color: #fff;
+    background-color: #009688;
+    font-family: "az";
+
+}
+.download {
+    display: inline-block;
+    font-weight: 400;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    border: 1px solid transparent;
+    padding: .375rem .75rem;
+    font-size: 25px;
+    line-height: 1.5;
+    border-radius: .25rem;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+.footer p{
+    font-family: "ArabicFont";
+}
+
+.down{
+ 
+    margin-bottom: 40px;
+}
+.downapp {
+    color: #fff;
+    text-decoration: none;
+    margin-bottom: 40px;
+}
+.follow {
+    border: 1px solid #bcbcbc;
+    padding: 35px 24px 15px 28px;
+    border-radius: 29px;
+}
+
+.follow a {
+    color: #f55;
+    text-decoration: none;
+    font-size: 40px;
+}
+.dev-tweak{
+    font-size: 18px;
+    font-family: "az";
+    
+}
